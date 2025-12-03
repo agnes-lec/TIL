@@ -1,5 +1,4 @@
 
-````markdown
 # [Javascript] Falsy 값, DOM 선택자, 문자열 표기법 정리
 
 **날짜**: 2025-12-03
